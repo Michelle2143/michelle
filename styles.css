@@ -1,0 +1,11 @@
+:root{ 
+  --branco-principal:white;
+  --cinza-secundario: gray;
+  --botao-azul: blue;
+  --cor-de-fundo: black;
+}
+
+body {
+    bagroud-color:var(--cor-de-fundo)
+
+}
